@@ -1,0 +1,20 @@
+# Core LeRobot framework
+lerobot
+
+# Hardware SDKs and wrappers
+xarm-python-sdk
+pyrealsense2
+
+# Data handling and computer vision
+opencv-python
+pandas
+pyarrow
+
+# Teleoperation input
+# Using pygame for easy, non-blocking keyboard event handling
+pygame
+
+# For data saving and progress bars
+h5py
+tqdm
+click
