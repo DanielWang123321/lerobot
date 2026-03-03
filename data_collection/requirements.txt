@@ -18,3 +18,4 @@ pygame
 h5py
 tqdm
 click
+pikasense
